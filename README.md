@@ -36,12 +36,4 @@ A 30-day Python learning challenge where I practice Python fundamentals daily by
 
 - Python 3
 
-## 📈 Challenge Status
-
-- ✅ Day 1 Completed
-- ✅ Day 2 Completed
-- ⏳ 28 Days Remaining
-
----
-
 ⭐ Follow my 30-day Python journey!
